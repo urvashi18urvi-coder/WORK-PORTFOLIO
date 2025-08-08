@@ -1,4 +1,4 @@
-This folder contains my Power BI dashboard projects.
+
 # Power BI Dashboards
 This folder contains my Power BI projects, focusing on data visualization, analytics, and insights generation.
 
