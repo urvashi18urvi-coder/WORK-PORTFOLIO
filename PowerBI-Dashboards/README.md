@@ -11,10 +11,15 @@ This folder contains my Power BI projects, focusing on data visualization, analy
  
  <img width="330" height="200" alt="Screenshot 2025-06-22 232508" src="https://github.com/user-attachments/assets/aeb1c31e-5948-4c99-90ce-55bf145a96f8" />
  <img width="330" height="210" alt="Screenshot 2025-06-22 232448" src="https://github.com/user-attachments/assets/19c2839b-f3d7-4033-8f3b-7e158196348c" />
+ <img width="330" height="200" alt="Screenshot 2025-08-08 234323" src="https://github.com/user-attachments/assets/da085f11-097c-48f3-9e93-7c141d3310ca" />
+
  
  **TATA Data Visualisation Job Simulation** – Completed via Forage, involving real-world dataset analysis and executive-level reporting.
  
  <img width="330" height="200" alt="Screenshot 2025-07-07 001254" src="https://github.com/user-attachments/assets/14b680fc-45b7-4ecd-82b2-e054640eedfe" />
+ <img width="330" height="200" alt="Screenshot 2025-08-08 234603" src="https://github.com/user-attachments/assets/38cd64c2-5be1-4b5d-a009-d44333637c96" />
+
+ 
 
 
 > Tools Used: Power BI, DAX, Excel
