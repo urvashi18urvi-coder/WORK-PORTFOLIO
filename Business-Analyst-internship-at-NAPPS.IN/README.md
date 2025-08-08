@@ -1,4 +1,4 @@
-<img width="1741" height="1172" alt="Screenshot 2025-08-08 223300" src="https://github.com/user-attachments/assets/eacf7ca3-6c40-4430-878d-e3554b3df9c4" /># Business Analyst Internship at NAPPS.IN
+# Business Analyst Internship at NAPPS.IN
 This folder includes my work from the Business Analyst internship at NAPPS.IN.
 
 ## Work Samples
