@@ -19,6 +19,8 @@ This folder contains my Power BI projects, focusing on data visualization, analy
  <img width="330" height="200" alt="Screenshot 2025-07-07 001254" src="https://github.com/user-attachments/assets/14b680fc-45b7-4ecd-82b2-e054640eedfe" />
  <img width="330" height="200" alt="Screenshot 2025-08-08 234603" src="https://github.com/user-attachments/assets/38cd64c2-5be1-4b5d-a009-d44333637c96" />
  <img width="330" height="200" alt="Screenshot 2025-08-08 234429" src="https://github.com/user-attachments/assets/b9cd0f53-0812-4984-ac31-59ed3f96f740" />
+ <img width="330" height="200" alt="Screenshot 2025-08-08 234417" src="https://github.com/user-attachments/assets/026be103-7627-4928-afa2-96bc920543f2" />
+
 
 
  
